@@ -14,3 +14,4 @@ node_modules
 .npm
 
 package-lock.json
+SMS Verify.postman_collection.json
